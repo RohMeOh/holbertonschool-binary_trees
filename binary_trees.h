@@ -1,6 +1,8 @@
 #ifndef BINARY_TREES_H
 #define BINARY_TREES_H
 
+#include <stddef.h>
+
 /**
  * struct binary_tree_s - Binary tree node
  * @n: Integer stored in the node
